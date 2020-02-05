@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+
+  table {
+    width:100%;
+  }
+
+  td {
+    padding:.5em;
+  }
+
+ .title {
+  background-color:pink;
+ }
+ .authors {
+  background-color: lightseagreen
+ }
+ .page_number {
+  background-color:lightyellow;
+ }
+ .year {
+  background-color:lightgreen;
+ }
+ .borrowable {
+  background-color:lightsalmon;
+ }
+ .availability {
+  background-color:lightskyblue;
+ } 
+
+
+ input {
+   margin:2em 0;
+  font-size:.7em;
+  border: 1.5px solid black;
+ }
